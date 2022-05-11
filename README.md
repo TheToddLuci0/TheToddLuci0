@@ -1,4 +1,13 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+Gamer, hacker, cloud enjoyer, python-writer, and general problem-causer. 
+
+
+<!-- from https://github.com/Aveek-Saha/GitHub-Profile-Badges -->
+[![KeyBase](https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=Keybase&logoColor=white)](https://gist.github.com/TheToddLuci0/107d57c02d4d93607e01805dfdf09062)
+[![gpg](https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD.svg?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white)](https://keys.openpgp.org/search?q=E26D48B308C7C1C39CD3C3E686B35D9789EBE4A5)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/logan-woolery)
+
+
 
 <!--
 **TheToddLuci0/TheToddLuci0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
